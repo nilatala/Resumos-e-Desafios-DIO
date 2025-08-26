@@ -8,11 +8,17 @@ Repositório para armazenar resumos, documentos e projetos dos cursos e bootcamp
 - [Explorar a fala no portal do Azure AI Foundry](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html)
 - [Analisar texto no portal do Azure AI Foundry](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html).
 
-## 💻 Resumos das Aulas
+## 💻 Resumos de Aulas
 
 | Aulas | Resumos |
 |-------|---------|
 | Análise de sentimentos com Language Studio no Azure AI | [Resumo](https://github.com/nilatala/Resumos-e-Desafios-DIO/blob/main/Resumos/LanguageStudio.md) |
+
+## 🧩🏆 Desafios de Aulas
+
+| Aulas | Desafios |
+|-------|---------|
+|  | [Desafio]() |
 
 ## 🔍 Referências
 - [Digital Innovation One]().
