@@ -18,7 +18,7 @@ Repositório para armazenar resumos, documentos e projetos dos cursos e bootcamp
 
 | Aulas | Desafios |
 |-------|---------|
-|  | [Desafio]() |
+| Refinando um Projeto Conceitual de Banco de Dados - E-Commerce | [Desafio](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Conceitual_E-commerce) |
 
 ## 🔍 Referências
 - [Digital Innovation One]().
