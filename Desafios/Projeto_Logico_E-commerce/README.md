@@ -6,7 +6,7 @@ O projeto foi desenvolvido como parte de um desafio prático para consolidar con
 
 ---
 
-## 🧱 Estrutura do Banco de Dados
+## Estrutura do Banco de Dados
 
 ### Entidades Principais
 
@@ -30,11 +30,18 @@ O projeto foi desenvolvido como parte de um desafio prático para consolidar con
 
 ---
 
+## 📊 Modelo Conceitual
+![Modelo Conceitual](https://github.com/nilatala/Resumos-e-Desafios-DIO/blob/main/Desafios/Projeto_Logico_E-commerce/e-commerce_EER.png)
+Arquivo original em [modelo-conceitual.mwb](https://github.com/nilatala/Resumos-e-Desafios-DIO/blob/main/Desafios/Projeto_Logico_E-commerce/modelo_e-commerce.mwb).
+
+---
+
 ## 🛠️ Tecnologias Utilizadas
 
 - **MySQL**: Sistema Gerenciador de Banco de Dados
-- **Workbench/dbdiagram.io**: Ferramentas de modelagem (opcional)
+- **Workbench**: Ferramentas de modelagem
 - **SQL**: Linguagem para definição e manipulação dos dados
+- **GitHub**: Repositório
 
 ---
 
@@ -50,6 +57,49 @@ O projeto foi desenvolvido como parte de um desafio prático para consolidar con
 
 ### 🔹 Recuperação simples com `WHERE`
 ```sql
-SELECT Fname, Lname, Address 
-FROM client 
-WHERE Address LIKE '%Centro%';
+select Fname, Lname, Address 
+from client 
+where Address like '%Centro%';
+```
+
+### 🔹 Atributo derivado (quantidade de pedidos por cliente)
+````sql
+select c.idClient, c.Fname, c.Lname, count(o.idOrder) as totalPedidos from client c
+left join orders o on c.idClient = o.idOrderClient group by c.idClient;
+````
+
+### 🔹 ORDER BY + expressão derivada:
+````sql
+select p.Pname, ps.prodQuantity * 100 as estoqueEstimado from product p
+join productSeller ps on p.idProduct = ps.idPproduct order by estoqueEstimado desc;
+````
+
+### 🔹 HAVING com agrupamento:
+````sql
+select idOrderClient, count(*) as totalPedidos from orders
+group by idOrderClient having totalPedidos = 1;
+````
+
+### 🔹 Junção entre múltiplas tabelas (produtos, fornecedores e estoques):
+````sql
+select s.SocialName as Fornecedor, p.Pname as Produto, ps.quantity as Quantidade, st.storageLocation from supplier s
+join productSupplier ps on s.idSupplier = ps.idPsSupplier
+join product p on p.idProduct = ps.idPsProduct
+join storageLocation sl on sl.idLproduct = p.idProduct
+join productStorage st on st.idProdStorage = sl.idLstorage;
+````
+
+### 🔹 Verificando se algum vendedor também é fornecedor:
+````sql
+select s.SocialName from seller s
+join supplier f on s.CNPJ = f.CNPJ;
+````
+
+---
+
+## 📊 Modelo Lógico
+![Script do Modelo Lógico](https://github.com/nilatala/Resumos-e-Desafios-DIO/blob/main/Desafios/Projeto_Logico_E-commerce/ecommerce_script2.sql)
+
+---
+
+
