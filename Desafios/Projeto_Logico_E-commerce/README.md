@@ -102,4 +102,6 @@ join supplier f on s.CNPJ = f.CNPJ;
 
 ---
 
-
+📎 **Projeto desenvolvido como parte do Bootcamp em Análise de Dados com a Randstad da [DIO](https://www.dio.me/)**  
+👤 Desenvolvido por: *Elizabeth Thomaz*  
+📅 Data: Outubro de 2025  
