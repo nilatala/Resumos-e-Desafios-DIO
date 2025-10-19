@@ -41,11 +41,9 @@ O banco foi implementado em MySQL. Todas as tabelas possuem chaves primárias, e
 
 ### 📂 Arquivos
 
-- ![Modelo Conceitual](https://github.com/nilatala/Resumos-e-Desafios-DIO/blob/main/Desafios/Projeto_Logico_E-commerce/e-commerce_EER.png)
-- Arquivo original em [modelo-conceitual.mwb](https://github.com/nilatala/Resumos-e-Desafios-DIO/blob/main/Desafios/Projeto_Logico_E-commerce/modelo_e-commerce.mwb).
-- `create_schema.sql`: Criação das tabelas e restrições
-- `insert_data.sql`: Inserção de dados de exemplo
-- `queries.sql`: Consultas analíticas com SQL
+- ![Modelo Conceitual](https://github.com/nilatala/Resumos-e-Desafios-DIO/blob/main/Desafios/Projeto_Logico_OS/Projeto_Ordem_de_Servico.png)
+- Arquivo original em [modelo-conceitual.mwb](https://github.com/nilatala/Resumos-e-Desafios-DIO/blob/main/Desafios/Projeto_Logico_OS/modelo_OS.mwb).
+- ![Script do Modelo Lógico](https://github.com/nilatala/Resumos-e-Desafios-DIO/blob/main/Desafios/Projeto_Logico_OS/OS_script.sql)
 
 ---
 
