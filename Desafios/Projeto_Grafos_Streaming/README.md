@@ -46,7 +46,7 @@ Gêneros como Ação, Drama, Comédia e Sci-Fi.
 | `IN_GENRE`     | Movie/Series → Genre | Classificação por gênero |
 | `ACTED_IN`     | Actor → Movie/Series | Atuações |
 | `DIRECTED`     | Director → Movie/Series | Direção |
-| `WATCHED`      | User → Movie/Series | Conteúdos assistidos, com nota |
+| `WATCHED`      | User → Movie/Series | Conteúdos assistidos |
 
 ---
 
