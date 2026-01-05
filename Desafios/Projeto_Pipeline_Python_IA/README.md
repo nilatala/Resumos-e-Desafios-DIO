@@ -106,6 +106,10 @@ def generate_ai_news(user):
     contents=f"Crie uma mensagem para {user['name']} sobre a importância dos investimentos. A mensagem deve ser feita levando em consideração o perfil de cliente baseado no seu saldo em conta de {user['account']['balance']} reais e seu limite do cartão de {user['card']['limit']} reais, porém, não fale de forma explícita o valor que o cliente tem ou insinuar que ele tem pouco ou muito dinheiro. A mensagem não deve ter mais de 100 caracteres."
   )
   return completion.text
+
+for user in users:
+    news = generate_ai_news(user)
+    print(news)
   ```
 
 ---
