@@ -112,12 +112,11 @@ def generate_ai_news(user):
 
 ## 📊 Resultados
 
-. Mensagens personalizadas geradas com sucesso para cada cliente.
-. Fluxo ETL concluído:
-
-    -Extração via API;
-    -Transformação com IA generativa;
-    -Carregamento em arquivo final.
+- Mensagens personalizadas geradas com sucesso para cada cliente.
+- Fluxo ETL concluído:
+    - Extração via API;
+    - Transformação com IA generativa;
+    - Carregamento em arquivo final.
 
 ---
 
@@ -125,10 +124,10 @@ def generate_ai_news(user):
 
 Este projeto demonstra a capacidade de:
 
-    -Adaptar soluções diante da indisponibilidade de fontes de dados.
-    -Integrar diferentes ferramentas e serviços.
-    -Aplicar o fluxo ETL em um cenário prático de Ciência de Dados com Python.
-    -Trabalhar com APIs, IA generativa e ambientes em nuvem.
+    - Adaptar soluções diante da indisponibilidade de fontes de dados.
+    - Integrar diferentes ferramentas e serviços.
+    - Aplicar o fluxo ETL em um cenário prático de Ciência de Dados com Python.
+    - Trabalhar com APIs, IA generativa e ambientes em nuvem.
 
 ---
 
