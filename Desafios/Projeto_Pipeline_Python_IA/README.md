@@ -123,11 +123,10 @@ def generate_ai_news(user):
 ## 🎯 Conclusão
 
 Este projeto demonstra a capacidade de:
-
-    - Adaptar soluções diante da indisponibilidade de fontes de dados.
-    - Integrar diferentes ferramentas e serviços.
-    - Aplicar o fluxo ETL em um cenário prático de Ciência de Dados com Python.
-    - Trabalhar com APIs, IA generativa e ambientes em nuvem.
+   - Adaptar soluções diante da indisponibilidade de fontes de dados.
+   - Integrar diferentes ferramentas e serviços.
+   - Aplicar o fluxo ETL em um cenário prático de Ciência de Dados com Python.
+   - Trabalhar com APIs, IA generativa e ambientes em nuvem.
 
 ---
 
