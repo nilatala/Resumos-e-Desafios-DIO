@@ -66,7 +66,81 @@ A partir dessa base, foram realizadas **adaptações e extensões**, descritas a
 1. Gerar a chave no **Google AI Studio**.
 2. Criar um arquivo `.env` com o conteúdo:
 
-''''
-env
+```env
 GOOGLE_API_KEY=SUA_CHAVE_AQUI
-''''
+```
+
+3. Carregar a variável de ambiente no Colab:
+
+```python
+from dotenv import load_dotenv
+import os
+
+load_dotenv('/content/drive/MyDrive/chave_api_gemini.env')
+api_key = os.getenv("GOOGLE_API_KEY")
+```
+
+---
+
+## 📡 Exposição da API com Ngrok
+
+Como o Google Colab não acessa diretamente uma API local, foi utilizado o ngrok para criar um túnel público:
+
+```bash
+ngrok http 8000
+```
+
+A URL gerada é utilizada no código Python para consumir os dados da API.
+
+---
+
+## 🧩 Função de Geração de Mensagens
+
+```python
+def generate_ai_news(user):
+  completion = client.models.generate_content(
+    model="gemini-2.5-flash",
+    config=types.GenerateContentConfig(
+        system_instruction="Você é um especialista de marketing que trabalha faz anos para uma agência bancária."
+    ),
+    contents=f"Crie uma mensagem para {user['name']} sobre a importância dos investimentos. A mensagem deve ser feita levando em consideração o perfil de cliente baseado no seu saldo em conta de {user['account']['balance']} reais e seu limite do cartão de {user['card']['limit']} reais, porém, não fale de forma explícita o valor que o cliente tem ou insinuar que ele tem pouco ou muito dinheiro. A mensagem não deve ter mais de 100 caracteres."
+  )
+  return completion.text
+  ```
+
+---
+
+## 📊 Resultados
+
+. Mensagens personalizadas geradas com sucesso para cada cliente.
+. Fluxo ETL concluído:
+
+    -Extração via API;
+    -Transformação com IA generativa;
+    -Carregamento em arquivo final.
+
+---
+
+## 🎯 Conclusão
+
+Este projeto demonstra a capacidade de:
+
+    -Adaptar soluções diante da indisponibilidade de fontes de dados.
+    -Integrar diferentes ferramentas e serviços.
+    -Aplicar o fluxo ETL em um cenário prático de Ciência de Dados com Python.
+    -Trabalhar com APIs, IA generativa e ambientes em nuvem.
+
+---
+
+## 🤝 Créditos
+
+A simulação da API local foi baseada no repositório
+Fake-API-Santander-Dio, desenvolvido por Paulo H. Leme.
+
+🔗 https://github.com/PauloHLeme/Fake-API-Santander-Dio
+
+---
+
+📎 **Projeto desenvolvido como parte do Bootcamp Santander 2025 - Ciência de Dados com Python [DIO](https://www.dio.me/)**  
+👤 Desenvolvido por: *Elizabeth Thomaz*  
+📅 Data: Janeiro de 2026  
