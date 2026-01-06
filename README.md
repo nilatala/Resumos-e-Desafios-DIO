@@ -16,14 +16,15 @@ Repositório para armazenar resumos, documentos e projetos dos cursos e bootcamp
 
 ## 🧩🏆 Desafios de Aulas
 
-| Aulas | Desafios |
+| Aulas | Projetos |
 |-------|---------|
-| Refinando um Projeto Conceitual de Banco de Dados - E-Commerce | [Desafio](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Conceitual_E-commerce) |
-| Construindo um Esquema Conceitual para Banco De dados - Ordem de Serviço | [Desafio](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Conceitual_OS) |
-| Construindo o Primeiro Projeto Lógico de Banco de Dados - E-Commerce | [Desafio](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Logico_E-commerce) |
-| Construindo Projeto Lógico de Banco de Dados - Sistema de Gerenciamento de Ordens de Serviço | [Desafio](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Logico_OS) |
-| Construindo um E-Book com apoio das IAs generativas - Natural ou Fake Natty? Como Vencer na Era das IAs Generativas! | [Desafio](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Ebook_Natty-or-Not) |
-| Modelagem de Dados em Grafos de um Serviço de Streaming | [Desafio](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Grafos_Streaming) |
+| Refinando um Projeto Conceitual de Banco de Dados - E-Commerce | [Projeto](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Conceitual_E-commerce) |
+| Construindo um Esquema Conceitual para Banco De dados - Ordem de Serviço | [Projeto](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Conceitual_OS) |
+| Construindo o Primeiro Projeto Lógico de Banco de Dados - E-Commerce | [Projeto](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Logico_E-commerce) |
+| Construindo Projeto Lógico de Banco de Dados - Sistema de Gerenciamento de Ordens de Serviço | [Projeto](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Logico_OS) |
+| Construindo um E-Book com apoio das IAs generativas - Natural ou Fake Natty? Como Vencer na Era das IAs Generativas! | [Projeto](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Ebook_Natty-or-Not) |
+| Modelagem de Dados em Grafos de um Serviço de Streaming | [Projeto](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Grafos_Streaming) |
+| Explorando IA Generativa em um Pipeline de ETL com Python | [Projeto](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Pipeline_Python_IA) |
 
 ## 🔍 Referências
 - [Digital Innovation One]().
