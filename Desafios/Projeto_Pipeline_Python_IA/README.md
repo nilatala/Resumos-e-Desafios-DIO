@@ -45,7 +45,7 @@ A partir dessa base, foram realizadas **adaptações e extensões**, descritas a
 - As mensagens consideram o perfil do cliente (saldo e limite), **sem expor valores diretamente**.
 
 ### 🔹 Carregamento
-- Salvamento das mensagens geradas em um novo arquivo (**CSV ou JSON**), consolidando os dados transformados.
+- Salvamento das mensagens geradas em um novo arquivo (**JSON**), consolidando os dados transformados.
 
 ---
 
@@ -64,7 +64,7 @@ A partir dessa base, foram realizadas **adaptações e extensões**, descritas a
 ## 🔑 Configuração da API Key (Google Gemini)
 
 1. Gerar a chave no **Google AI Studio**.
-2. Criar um arquivo `.env` com o conteúdo:
+2. Criar um arquivo `.env`, para não deixar a chave exposta no código, com o conteúdo:
 
 ```env
 GOOGLE_API_KEY=SUA_CHAVE_AQUI
