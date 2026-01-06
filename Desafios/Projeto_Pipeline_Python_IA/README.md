@@ -108,25 +108,35 @@ def generate_ai_news(user):
   return completion.text
 
 for user in users:
-    news = generate_ai_news(user)
-    print(news)
+  user.setdefault("news", [])
+  news = generate_ai_news(user)
+  print(news)
+  user['news'].append({
+      "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+      "description": news
+  })
+
+with open("users_with_news.json", "w", encoding="utf-8") as f:
+    json.dump(users, f, indent=2, ensure_ascii=False)
   ```
 
 ---
 
 ## 📊 Resultados
 
-- Mensagens personalizadas geradas com sucesso para cada cliente.
-- Fluxo ETL concluído:
-    - Extração via API;
-    - Transformação com IA generativa;
-    - Carregamento em arquivo final.
+- Mensagens personalizadas foram **geradas com sucesso** para cada cliente utilizando o modelo Gemini.  
+- Todas as mensagens foram adicionadas ao campo `news` de cada usuário e **armazenadas em arquivo JSON** (`users_with_news.json`).  
+- O fluxo **ETL** foi concluído com as seguintes etapas:
+  - **Extração** → dados obtidos via Fake API ou arquivo CSV.  
+  - **Transformação** → enriquecimento dos dados com IA generativa, criando mensagens personalizadas.  
+  - **Carregamento** → salvamento dos dados finais em arquivo JSON para consulta e análise.
+
 
 ---
 
 ## 🎯 Conclusão
 
-Este projeto demonstra a capacidade de:
+- Este projeto demonstra a capacidade de:
    - Adaptar soluções diante da indisponibilidade de fontes de dados.
    - Integrar diferentes ferramentas e serviços.
    - Aplicar o fluxo ETL em um cenário prático de Ciência de Dados com Python.
