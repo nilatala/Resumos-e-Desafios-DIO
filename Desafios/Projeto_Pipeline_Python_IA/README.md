@@ -61,6 +61,17 @@ A partir dessa base, foram realizadas **adaptações e extensões**, descritas a
 
 ---
 
+## 🗂️ Arquitetura do Repositório
+
+├── README.md
+├── pipeline_python_ia.ipynb
+├── pipeline_python_ia.py
+├── requirements.txt
+├── users.json
+└── users_with_news.json
+
+---
+
 ## 🔑 Configuração da API Key (Google Gemini)
 
 1. Gerar a chave no **Google AI Studio**.
