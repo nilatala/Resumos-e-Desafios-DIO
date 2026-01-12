@@ -18,13 +18,14 @@ Repositório para armazenar resumos, documentos e projetos dos cursos e bootcamp
 
 | Aulas | Projetos | Ferramentas |
 |-------|---------| -------------|
-| Refinando um Projeto Conceitual de Banco de Dados - E-Commerce | [Projeto](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Conceitual_E-commerce) | [MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) |
-| Construindo um Esquema Conceitual para Banco De dados - Ordem de Serviço | [Projeto](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Conceitual_OS) |
-| Construindo o Primeiro Projeto Lógico de Banco de Dados - E-Commerce | [Projeto](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Logico_E-commerce) |
-| Construindo Projeto Lógico de Banco de Dados - Sistema de Gerenciamento de Ordens de Serviço | [Projeto](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Logico_OS) |
-| Construindo um E-Book com apoio das IAs generativas - Natural ou Fake Natty? Como Vencer na Era das IAs Generativas! | [Projeto](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Ebook_Natty-or-Not) |
-| Modelagem de Dados em Grafos de um Serviço de Streaming | [Projeto](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Grafos_Streaming) |
-| Explorando IA Generativa em um Pipeline de ETL com Python | [Projeto](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Pipeline_Python_IA) |
+| Refinando um Projeto Conceitual de Banco de Dados - E-Commerce | [Projeto](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Conceitual_E-commerce) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) |
+| Construindo um Esquema Conceitual para Banco De dados - Ordem de Serviço | [Projeto](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Conceitual_OS) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) |
+| Construindo o Primeiro Projeto Lógico de Banco de Dados - E-Commerce | [Projeto](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Logico_E-commerce) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) |
+| Construindo Projeto Lógico de Banco de Dados - Sistema de Gerenciamento de Ordens de Serviço | [Projeto](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Logico_OS) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) |
+| Construindo um E-Book com apoio das IAs generativas - Natural ou Fake Natty? Como Vencer na Era das IAs Generativas! | [Projeto](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Ebook_Natty-or-Not) | ![Copilot](https://img.shields.io/badge/Microsoft_Copilot-239120?style=for-the-badge&logo=microsoft-copilot&logoColor=white) |
+| Modelagem de Dados em Grafos de um Serviço de Streaming | [Projeto](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Grafos_Streaming) | ![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white) |
+| Explorando IA Generativa em um Pipeline de ETL com Python | [Projeto](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Pipeline_Python_IA) | ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white) ![Ngrok](https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=Ngrok&logoColor=white) |
+| Criando um Dashboard de Vendas do Xbox com Excel | [Projeto](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Dashboard_Vendas) | ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
 
 ## 🔍 Referências
 - [Digital Innovation One]().
