@@ -60,9 +60,9 @@ Dashboard interativo desenvolvido no Excel para análise de vendas de assinatura
 
 ## 🛠️ Ferramentas Utilizadas
 - **Microsoft Excel**
-- Tabelas dinâmicas
-- Gráficos dinâmicos
-- Organização modular por abas
+    - Tabelas dinâmicas
+    - Gráficos dinâmicos
+    - Organização modular por abas
 
 ---
 
