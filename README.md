@@ -18,7 +18,7 @@ Repositório para armazenar resumos, documentos e projetos dos cursos e bootcamp
 
 | Aulas | Projetos |
 |-------|---------|
-| Refinando um Projeto Conceitual de Banco de Dados - E-Commerce | [Projeto](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Conceitual_E-commerce) |
+| Refinando um Projeto Conceitual de Banco de Dados - E-Commerce | [Projeto](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Conceitual_E-commerce) | [MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) |
 | Construindo um Esquema Conceitual para Banco De dados - Ordem de Serviço | [Projeto](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Conceitual_OS) |
 | Construindo o Primeiro Projeto Lógico de Banco de Dados - E-Commerce | [Projeto](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Logico_E-commerce) |
 | Construindo Projeto Lógico de Banco de Dados - Sistema de Gerenciamento de Ordens de Serviço | [Projeto](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Logico_OS) |
