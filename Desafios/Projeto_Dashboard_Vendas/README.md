@@ -24,6 +24,8 @@ O arquivo foi organizado em quatro abas, seguindo boas práticas de projetos ana
 - **D – Dashboard**  
   Painel visual com gráficos dinâmicos, indicadores e respostas às perguntas de negócio.
 
+**Obs:** As abas A, B e C foram ocultadas ao fim do projeto, com o intuito de melhorar a visualização. 
+
 ---
 
 ## 🎯 Perguntas de Negócio Respondidas
@@ -52,7 +54,9 @@ As respostas são apresentadas de forma visual por meio de **gráficos dinâmico
 ## 🖼️ Visualização do Dashboard
 Dashboard interativo desenvolvido no Excel para análise de vendas de assinaturas do Xbox.
 
-![Dashboard de Vendas do Xbox](https://github.dev/nilatala/Resumos-e-Desafios-DIO/)
+![Dashboard de Vendas do Xbox](https://github.com/nilatala/Resumos-e-Desafios-DIO/blob/main/Desafios/Projeto_Dashboard_Vendas/dashboard-xbox-sales.png)
+
+---
 
 ## 🛠️ Ferramentas Utilizadas
 - **Microsoft Excel**
@@ -68,12 +72,11 @@ Dashboard interativo desenvolvido no Excel para análise de vendas de assinatura
 
 ---
 
-## ▶️ Como Reproduzir
-1. Faça o download do arquivo `.xlsx` disponível neste repositório  
-2. Abra o arquivo no Microsoft Excel (versão 2019 ou superior recomendada)  
-3. Navegue até a aba **Dashboard** para visualizar as análises  
+## 🚀 Observações
+Este projeto faz parte do meu processo de desenvolvimento e transição para a área de **Análise de Dados**, com foco em organização, clareza visual e resposta a perguntas de negócio.
 
 ---
 
-## 🚀 Observações
-Este projeto faz parte do meu processo de desenvolvimento e transição para a área de **Análise de Dados**, com foco em organização, clareza visual e resposta a perguntas de negócio.
+📎 **Projeto desenvolvido como parte do Bootcamp Santander 2025 - Ciência de Dados com Python [DIO](https://www.dio.me/)**  
+👤 Desenvolvido por: *Elizabeth Thomaz*  
+📅 Data: Janeiro de 2026
