@@ -79,22 +79,22 @@ Recomenda-se a continuidade do uso das ferramentas apresentadas e a avaliação 
         Usuários / Parceiros
                  |
                  v
-        ---------------------
+        --------------------
         |  Aplicação Web   |
         |   (EC2 + ASG)    |
-        ---------------------
+        --------------------
                  |
-        ---------------------
+        --------------------
         |  Amazon S3       |
         |  (Documentos,    |
         |   Relatórios,    |
         |   Backups)       |
-        ---------------------
+        --------------------
                  |
-        ---------------------
+        --------------------
         | AWS Cost Explorer|
         | AWS Budgets      |
-        ---------------------
+        --------------------
 
 ---
 
