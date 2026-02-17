@@ -32,6 +32,7 @@ Página desenvolvida de forma independente, com foco em análise visual e interp
 - 🗺 **Mapa 1**: Soma de *Sales* e *Units Sold* por país  
 - 🗺 **Mapa 2**: Soma de *Profit* por país  
 - 🍕 **Gráfico de Pizza**: Distribuição do lucro por segmento 
+
 ![Dashboard](https://github.com/nilatala/Resumos-e-Desafios-DIO/blob/main/Desafios/Projeto_Dashboard_Vendas_PowerBI/sample-financial-pg3.png) 
 
 Além disso:
