@@ -48,9 +48,9 @@ Além disso:
 ---
 
 ## 📂 Arquivos do Repositório
-- ![`sample-financial.pbix`](https://github.com/nilatala/Resumos-e-Desafios-DIO/blob/main/Desafios/Projeto_Dashboard_Vendas_PowerBI/sample-financial.pbix) → Arquivo do Power BI  
-- ![`sample-financial.pdf`](https://github.com/nilatala/Resumos-e-Desafios-DIO/blob/main/Desafios/Projeto_Dashboard_Vendas_PowerBI/sample-financial.pdf) → Versão exportada do relatório  
-- ![`README.md`](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Dashboard_Vendas_PowerBI) → Documentação do projeto  
+- [`sample-financial.pbix`](https://github.com/nilatala/Resumos-e-Desafios-DIO/blob/main/Desafios/Projeto_Dashboard_Vendas_PowerBI/sample-financial.pbix) → Arquivo do Power BI  
+- [`sample-financial.pdf`](https://github.com/nilatala/Resumos-e-Desafios-DIO/blob/main/Desafios/Projeto_Dashboard_Vendas_PowerBI/sample-financial.pdf) → Versão exportada do relatório  
+- [`README.md`](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Dashboard_Vendas_PowerBI) → Documentação do projeto  
 
 ---
 
