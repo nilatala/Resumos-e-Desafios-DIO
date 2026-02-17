@@ -31,7 +31,8 @@ Página desenvolvida de forma independente, com foco em análise visual e interp
 
 - 🗺 **Mapa 1**: Soma de *Sales* e *Units Sold* por país  
 - 🗺 **Mapa 2**: Soma de *Profit* por país  
-- 🍕 **Gráfico de Pizza**: Distribuição do lucro por segmento  
+- 🍕 **Gráfico de Pizza**: Distribuição do lucro por segmento 
+![Dashboard](https://github.com/nilatala/Resumos-e-Desafios-DIO/blob/main/Desafios/Projeto_Dashboard_Vendas_PowerBI/sample-financial-pg3.png) 
 
 Além disso:
 - Organização visual adequada dos elementos no dashboard  
@@ -50,6 +51,7 @@ Além disso:
 ## 📂 Arquivos do Repositório
 - [`sample-financial.pbix`](https://github.com/nilatala/Resumos-e-Desafios-DIO/blob/main/Desafios/Projeto_Dashboard_Vendas_PowerBI/sample-financial.pbix) → Arquivo do Power BI  
 - [`sample-financial.pdf`](https://github.com/nilatala/Resumos-e-Desafios-DIO/blob/main/Desafios/Projeto_Dashboard_Vendas_PowerBI/sample-financial.pdf) → Versão exportada do relatório  
+- [`sample-financial-pg3.png`](https://github.com/nilatala/Resumos-e-Desafios-DIO/blob/main/Desafios/Projeto_Dashboard_Vendas_PowerBI/sample-financial-pg3.png) → Dashboard da Página 3
 - [`README.md`](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Dashboard_Vendas_PowerBI) → Documentação do projeto  
 
 ---
