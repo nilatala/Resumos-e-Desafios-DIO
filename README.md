@@ -28,6 +28,7 @@ Repositório para armazenar resumos, documentos e projetos dos cursos e bootcamp
 | Criando um Dashboard de Vendas do Xbox com Excel | [Projeto](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Dashboard_Vendas) | ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
 | Redução dos Custos em Farmácias com AWS | [Projeto](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Operacao-Farmaceutica) | ![AWS](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white) |
 | Analisando dados de um Dashboard de Vendas no Power BI | [Projeto](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Dashboard_Vendas_PowerBI) | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
+| Criando Um Relatório Gerencial de Vendas com Power BI | [Projeto](https://github.com/nilatala/Resumos-e-Desafios-DIO/tree/main/Desafios/Projeto_Relatorio_Financeiro_Interativo_PowerBI) | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
 
 ## 🔍 Referências
 - [Digital Innovation One]().
