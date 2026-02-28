@@ -29,14 +29,14 @@ O relatório foi desenvolvido com foco em organização visual e experiência do
 - Botões com imagens para melhorar a experiência de navegação
 - Alternância de visuais sobre o mesmo tema utilizando botões
 
-![Página 1]()
+![Página 1](https://github.com/nilatala/Resumos-e-Desafios-DIO/blob/main/Desafios/Projeto_Relatorio_Financeiro_Interativo_PowerBI/projeto-financial-sample-web-pg1.png)
 
 ### Página 2 – Análise Complementar
 - Nova página criada para aprofundamento das análises
 - Continuidade da identidade visual
 - Navegação integrada com botões entre páginas
 
-![Página 2]()
+![Página 2](https://github.com/nilatala/Resumos-e-Desafios-DIO/blob/main/Desafios/Projeto_Relatorio_Financeiro_Interativo_PowerBI/projeto-financial-sample-web-pg2.png)
 
 ---
 
@@ -59,11 +59,11 @@ O relatório foi desenvolvido com foco em organização visual e experiência do
 ---
 
 ## 📂 Arquivos do Repositório
-- [`projeto-financial-sample.pbix`]() → Arquivo editável do Power BI  
-- [`projeto-financial-sample.pdf`]() → Versão exportada do relatório  
-- [`projeto-financial-sample-web-pg1.png`]() → Print da versão publicada no Power BI Service (Página 1) 
-- [`projeto-financial-sample-web-pg2.png`]() → Print da versão publicada no Power BI Service (Página 2)  
-- [`README.md`]() → Documentação do projeto  
+- [`projeto-financial-sample.pbix`](https://github.com/nilatala/Resumos-e-Desafios-DIO/blob/main/Desafios/Projeto_Relatorio_Financeiro_Interativo_PowerBI/projeto-financial-sample.pbix) → Arquivo editável do Power BI  
+- [`projeto-financial-sample.pdf`](https://github.com/nilatala/Resumos-e-Desafios-DIO/blob/main/Desafios/Projeto_Relatorio_Financeiro_Interativo_PowerBI/projeto-financial-sample.pdf) → Versão exportada do relatório  
+- [`projeto-financial-sample-web-pg1.png`](https://github.com/nilatala/Resumos-e-Desafios-DIO/blob/main/Desafios/Projeto_Relatorio_Financeiro_Interativo_PowerBI/projeto-financial-sample-web-pg1.png) → Print da versão publicada no Power BI Service (Página 1) 
+- [`projeto-financial-sample-web-pg2.png`](https://github.com/nilatala/Resumos-e-Desafios-DIO/blob/main/Desafios/Projeto_Relatorio_Financeiro_Interativo_PowerBI/projeto-financial-sample-web-pg2.png) → Print da versão publicada no Power BI Service (Página 2)  
+- [`README.md`](https://github.com/nilatala/Resumos-e-Desafios-DIO/blob/main/Desafios/Projeto_Relatorio_Financeiro_Interativo_PowerBI/README.md) → Documentação do projeto  
 
 ---
 
