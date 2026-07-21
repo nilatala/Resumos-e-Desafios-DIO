@@ -175,5 +175,7 @@ Além dos aspectos técnicos, o projeto evidenciou a importância da adaptação
 ---
 
 📎 **Projeto desenvolvido como parte da Formação Machine Learning Specialist – [DIO](https://web.dio.me/track/a7a92326-cb82-41e2-a150-0e5ede46a412)**
+
 👤 **Desenvolvido por:** *Elizabeth Thomaz*
+
 📅 **Data:** Julho de 2026
