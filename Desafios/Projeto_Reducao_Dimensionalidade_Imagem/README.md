@@ -199,7 +199,7 @@ def binarizar(imagem_cinza, limiar=127):
 
 A imagem utilizada como entrada foi uma fotografia colorida de uma flor.
 
-![Imagem colorida original](images/flor.jpg)
+![Imagem colorida original](images/flor_colorida.png)
 
 ---
 
@@ -220,7 +220,7 @@ maior valor foi `249`.
 Após a aplicação do limiar de `127`, cada pixel foi classificado como
 preto ou branco.
 
-![Imagem binarizada](imagens/flor_binarizada.png)
+![Imagem binarizada](images/flor_binarizada.png)
 
 A validação dos valores únicos encontrados na imagem binarizada resultou
 em:
