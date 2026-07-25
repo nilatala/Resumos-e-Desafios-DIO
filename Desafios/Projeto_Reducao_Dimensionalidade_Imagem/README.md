@@ -343,7 +343,6 @@ dados utilizados em sistemas baseados em redes neurais.
 📎 **Projeto desenvolvido como parte da Formação Machine Learning Specialist [DIO](https://www.dio.me/)**  
 👤 Desenvolvido por: *Elizabeth Thomaz*  
 📅 Data: Julho de 2026 
-
 🔗 [GitHub](https://github.com/nilatala)
 
 
